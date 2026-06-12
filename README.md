@@ -12,7 +12,6 @@ A fast and statistical Python script to estimate your total YouTube watch hours 
    ```bash
    pip install -r requirements.txt
    ```
-
 4.Run the script:
    ```bash
    python3 script.py
