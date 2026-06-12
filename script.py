@@ -65,6 +65,7 @@ def get_video_duration(url):
         return None
 
 def main():
+    # Here you put ur html histroy file
     file_path = "watch_history.html"
     logging.info("🚀 Starting YouTube Watch History Analyzer...")
     logging.info("💡 Tip: You can stop the script anytime by pressing Ctrl+C. A partial report will be generated.")
